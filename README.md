@@ -1,2 +1,2 @@
 # eu_spotpower
-Capturing spot power prices entso-e and printing it on a continental map
+Capturing spot power prices with entso-e api and printing it on a continental map
